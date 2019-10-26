@@ -1,6 +1,6 @@
 # A program that displays Fibonacci numbers using people's names.
 
-Richella O'Driscoll Week 1 and Week 2 Exercises
+##Richella O'Driscoll Week 1 and Week 2 Exercises
 
 
 
@@ -33,9 +33,7 @@ def fib(n):
 
 
 # Test the function with the following value.
-
-x = 19
-
+x=int(input(""))
 ans = fib(x)
 
 print("Fibonacci number", x, "is", ans)
